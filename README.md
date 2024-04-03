@@ -12,10 +12,12 @@
 pip install -r requirements.txt
 ```
 
-Then you can launch the app with
+Probleme 
 
 ```
-
+docker exec -it <Nom du container> /bin/bash
+apt-get install p7zip-full
+composer update 
 ```
 
 ## App information
